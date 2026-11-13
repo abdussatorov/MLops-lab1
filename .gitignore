@@ -1,0 +1,6 @@
+﻿venv_mlops/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
